@@ -13,4 +13,7 @@ plugins {
 }
 
 rootProject.name = 'gradle_task'
-include('app')
+include 'app'
+include 'core'
+
+
